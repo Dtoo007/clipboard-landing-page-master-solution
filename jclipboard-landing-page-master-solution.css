@@ -172,7 +172,7 @@ button a {
 /*SECTION-TWO*/
 
 .section-two-content img {
-	margin: 64px;
+	padding: 64px;
 	width: 100%;
 }
 
@@ -226,7 +226,7 @@ section .button {
 /*SECTION-FIVE*/
 
 .section-five-content {
-	margin: 64px;
+	
 }
 
 /*FOOTER*/
@@ -234,6 +234,7 @@ section .button {
 footer {
 	background: #F5F6F8;
 	background-size: cover;
+	max-width: 1440px;
 }
 
 .footer-content {
@@ -298,7 +299,7 @@ header .button {
 .section-one-content img {
 	margin-right: 0px;
 	padding: 0px 10px 0px 10px;
-	width: 100%;
+	max-width: 100%;
 }
 
 .section-one-details p, h4 {
@@ -306,8 +307,8 @@ header .button {
 }
 
 .section-two-content img {
-	margin: 0px;
-	width: 100%;
+	margin-top: 32px;
+	max-width: 100%;
 }
 
 .section-three-details {
@@ -324,6 +325,10 @@ header .button {
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
+}
+
+.section-five-content {
+	
 }
 
 section .button {
@@ -372,5 +377,8 @@ section .button {
 
 footer {
 	padding: 32px 0px;
+	background: #F5F6F8;
+	background-size: cover;
 }
+
 }
