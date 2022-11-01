@@ -149,7 +149,6 @@ button a {
 	display: flex;
 	align-items: center;
 	padding: 64px 300px 64px 0px;
-
 }
 
 .section-one-content img {
@@ -292,7 +291,7 @@ header .button {
 	justify-content: center;
 	flex-direction: column;
 	align-items: center;
-	padding: 64px 0px 64px 0px;
+	padding: 64px 10px 64px 10px;
 
 }
 
