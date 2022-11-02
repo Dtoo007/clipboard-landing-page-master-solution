@@ -233,7 +233,6 @@ section .button {
 footer {
 	background: #F5F6F8;
 	background-size: cover;
-	max-width: 1440px;
 }
 
 .footer-content {
@@ -377,7 +376,7 @@ section .button {
 footer {
 	padding: 32px 0px;
 	background: #F5F6F8;
-	background-size: cover;
+	background-size: 100%;
 }
 
 }
