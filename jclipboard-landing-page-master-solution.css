@@ -271,7 +271,7 @@ footer {
 	margin: 8px;
 }
 
-@media (min-width: 375px) and (max-width: 768px) {
+@media (min-width: 128px) and (max-width: 768px) {
 	header {
 	background-image: url(https://drive.google.com/uc?export=view&id=1cJnKNHoiZMxZi4-l1ZpDeZXcpURpBNdZ);
 	background-size: 100%;
